@@ -30,11 +30,14 @@ This Power BI project focuses on analyzing Netflix content data to extract meani
 ---
 
 ## 📂 Repository Contents
-📁 **Dataset**: Netflix dataset in Excel format.  
-📁 **PBIX File**: Power BI project file.  
-📁 **Screenshots**: Sample dashboard visuals.  
-📁 **PDF file**: Sample dashboard pdf. 
+📁 **[Dataset](./dataset.xlsx)**: Netflix dataset in Excel format.  
+📁 **[PBIX File](./Netflix_Analysis.pbix)**: Power BI project file.  
+📁 **[Screenshots](./screenshot/)**: Sample dashboard visuals.  
+📁 **[PDF File](./Netflix_Analysis.pdf/)**: Sample dashboard pdf. 
 ---
+
+## Dashboard 
+![Screenshot](https://github.com/user-attachments/assets/9ca182c5-bbe0-4e3c-af60-050f22871604)
 
 ## 🚀 Future Enhancements
 - ✅ Adding **RLS (Row-Level Security)** for user-based content filtering.
@@ -43,7 +46,7 @@ This Power BI project focuses on analyzing Netflix content data to extract meani
 ---
 
 ## 💡 Why This Project?
-This is my first GitHub project as I continue working on and sharing Power BI projects to enhance and showcase my skills.
+This is my first GitHub project as I continue working on and sharing my projects to enhance and showcase my skills.
 
 ---
 
