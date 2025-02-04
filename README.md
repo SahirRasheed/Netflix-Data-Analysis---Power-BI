@@ -49,4 +49,4 @@ This is my first GitHub project as I continue working on and sharing Power BI pr
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/sahir-rasheed-5686121a0/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](YOUR_GITHUB_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/SahirRasheed)
